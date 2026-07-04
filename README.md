@@ -17,3 +17,4 @@
 | 2026-07-01 | 《十七把钥匙，开一扇门》 | Tool Calling（工具调用） | [stories/2026-07-01-十七把钥匙开一扇门-ToolCalling工具调用.md](stories/2026-07-01-十七把钥匙开一扇门-ToolCalling工具调用.md) |
 | 2026-07-02 | 《桌上一摞纸，装不下整场会》 | Token（令牌 / 词元） | [stories/2026-07-02-桌上一摞纸装不下整场会-Token令牌.md](stories/2026-07-02-桌上一摞纸装不下整场会-Token令牌.md) |
 | 2026-07-03 | 《言之凿凿，查无此事》 | Hallucination（幻觉） | [stories/2026-07-03-言之凿凿查无此事-Hallucination幻觉.md](stories/2026-07-03-言之凿凿查无此事-Hallucination幻觉.md) |
+| 2026-07-04 | 《相似的地段，最抢手》 | Embedding（嵌入 / 向量化） | [stories/2026-07-04-相似的地段最抢手-Embedding嵌入.md](stories/2026-07-04-相似的地段最抢手-Embedding嵌入.md) |
