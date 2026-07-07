@@ -20,3 +20,4 @@
 | 2026-07-04 | 《相似的地段，最抢手》 | Embedding（嵌入 / 向量化） | [stories/2026-07-04-相似的地段最抢手-Embedding嵌入.md](stories/2026-07-04-相似的地段最抢手-Embedding嵌入.md) |
 | 2026-07-05 | 《圆桌只坐十二人》 | Context Window（上下文窗口） | [stories/2026-07-05-圆桌只坐十二人-ContextWindow上下文窗口.md](stories/2026-07-05-圆桌只坐十二人-ContextWindow上下文窗口.md) |
 | 2026-07-06 | 《海选三十，复试三甲》 | Rerank（重排序） | [stories/2026-07-06-海选三十复试三甲-Rerank重排序.md](stories/2026-07-06-海选三十复试三甲-Rerank重排序.md) |
+| 2026-07-07 | 《每一句话，都要有出处》 | Grounding（引用约束 / 接地与可追溯生成） | [stories/2026-07-07-每一句话都要有出处-Grounding引用约束.md](stories/2026-07-07-每一句话都要有出处-Grounding引用约束.md) |
