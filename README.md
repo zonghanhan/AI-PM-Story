@@ -24,3 +24,4 @@
 | 2026-07-08 | 《三个月口音班，值不值学费》 | Fine-tuning（微调） | [stories/2026-07-08-三个月口音班值不值学费-Fine-tuning微调.md](stories/2026-07-08-三个月口音班值不值学费-Fine-tuning微调.md) |
 | 2026-07-09 | 《抽屉里的口音片》 | LoRA / PEFT（参数高效微调） | [stories/2026-07-09-抽屉里的口音片-LoRA参数高效微调.md](stories/2026-07-09-抽屉里的口音片-LoRA参数高效微调.md) |
 | 2026-07-10 | 《三把尺子量小言》 | Evaluation（评测体系） | [stories/2026-07-10-三把尺子量小言-Evaluation评测体系.md](stories/2026-07-10-三把尺子量小言-Evaluation评测体系.md) |
+| 2026-07-13 | 《每说一句话，都要付运费》 | Inference Cost（推理成本优化） | [stories/2026-07-13-每说一句话都要付运费-InferenceCost推理成本.md](stories/2026-07-13-每说一句话都要付运费-InferenceCost推理成本.md) |
