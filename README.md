@@ -26,3 +26,4 @@
 | 2026-07-10 | 《三把尺子量小言》 | Evaluation（评测体系） | [stories/2026-07-10-三把尺子量小言-Evaluation评测体系.md](stories/2026-07-10-三把尺子量小言-Evaluation评测体系.md) |
 | 2026-07-13 | 《每说一句话，都要付运费》 | Inference Cost（推理成本优化） | [stories/2026-07-13-每说一句话都要付运费-InferenceCost推理成本.md](stories/2026-07-13-每说一句话都要付运费-InferenceCost推理成本.md) |
 | 2026-07-14 | 《用户发来一张图》 | Multimodal（多模态输入） | [stories/2026-07-14-用户发来一张图-Multimodal多模态输入.md](stories/2026-07-14-用户发来一张图-Multimodal多模态输入.md) |
+| 2026-07-17 | 《门卫老关的三本册子》 | Safety / Guardrails（安全护栏） | [stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md](stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md) |
