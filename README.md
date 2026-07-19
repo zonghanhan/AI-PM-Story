@@ -28,3 +28,4 @@
 | 2026-07-14 | 《用户发来一张图》 | Multimodal（多模态输入） | [stories/2026-07-14-用户发来一张图-Multimodal多模态输入.md](stories/2026-07-14-用户发来一张图-Multimodal多模态输入.md) |
 | 2026-07-17 | 《门卫老关的三本册子》 | Safety / Guardrails（安全护栏） | [stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md](stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md) |
 | 2026-07-18 | 《分诊台的老何》 | Model Routing（模型路由） | [stories/2026-07-18-分诊台的老何-ModelRouting模型路由.md](stories/2026-07-18-分诊台的老何-ModelRouting模型路由.md) |
+| 2026-07-19 | 《先看见第一句》 | Streaming（流式输出） | [stories/2026-07-19-先看见第一句-Streaming流式输出.md](stories/2026-07-19-先看见第一句-Streaming流式输出.md) |
