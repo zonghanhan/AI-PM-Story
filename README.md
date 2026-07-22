@@ -6,6 +6,8 @@
 - **难度**：本科生入门，不堆高数与算法推导，贴合 AI 产品岗
 - **节奏**：从基础概念起步，逐步深入
 
+**读故事前建议先看**：[系列世界观与阅读指南](stories/世界观.md)（小言平台 vs 应用 A/B/C/D、各篇归属、制造/业财术语白话）。
+
 ## 故事索引
 
 | 日期 | 故事名称 | 概念 | 文件 |
@@ -29,3 +31,6 @@
 | 2026-07-17 | 《门卫老关的三本册子》 | Safety / Guardrails（安全护栏） | [stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md](stories/2026-07-17-门卫老关的三本册子-SafetyGuardrails安全护栏.md) |
 | 2026-07-18 | 《分诊台的老何》 | Model Routing（模型路由） | [stories/2026-07-18-分诊台的老何-ModelRouting模型路由.md](stories/2026-07-18-分诊台的老何-ModelRouting模型路由.md) |
 | 2026-07-19 | 《先看见第一句》 | Streaming（流式输出） | [stories/2026-07-19-先看见第一句-Streaming流式输出.md](stories/2026-07-19-先看见第一句-Streaming流式输出.md) |
+| 2026-07-20 | 《半张表进不了财务系统》 | Structured Output（结构化输出） | [stories/2026-07-20-半张表进不了财务系统-StructuredOutput结构化输出.md](stories/2026-07-20-半张表进不了财务系统-StructuredOutput结构化输出.md) |
+| 2026-07-21 | 《昨天的口径今天又问一遍》 | Memory（会话记忆） | [stories/2026-07-21-昨天的口径今天又问一遍-Memory会话记忆.md](stories/2026-07-21-昨天的口径今天又问一遍-Memory会话记忆.md) |
+| 2026-07-22 | 《两条队，一个柜台》 | Hybrid Retrieval（混合检索） | [stories/2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md](stories/2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md) |
