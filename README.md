@@ -34,3 +34,4 @@
 | 2026-07-20 | 《半张表进不了财务系统》 | Structured Output（结构化输出） | [stories/2026-07-20-半张表进不了财务系统-StructuredOutput结构化输出.md](stories/2026-07-20-半张表进不了财务系统-StructuredOutput结构化输出.md) |
 | 2026-07-21 | 《昨天的口径今天又问一遍》 | Memory（会话记忆） | [stories/2026-07-21-昨天的口径今天又问一遍-Memory会话记忆.md](stories/2026-07-21-昨天的口径今天又问一遍-Memory会话记忆.md) |
 | 2026-07-22 | 《两条队，一个柜台》 | Hybrid Retrieval（混合检索） | [stories/2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md](stories/2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md) |
+| 2026-07-23 | 《开播前的那份剧本》 | System Prompt（系统提示词） | [stories/2026-07-23-开播前的那份剧本-SystemPrompt系统提示词.md](stories/2026-07-23-开播前的那份剧本-SystemPrompt系统提示词.md) |
