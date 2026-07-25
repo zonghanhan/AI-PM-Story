@@ -38,3 +38,4 @@
 | 23 | 2026-07-22 | 《两条队，一个柜台》 | Hybrid Retrieval（混合检索） | [stories/23-2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md](stories/23-2026-07-22-两条队一个柜台-HybridRetrieval混合检索.md) |
 | 24 | 2026-07-23 | 《开播前的那份剧本》 | System Prompt（系统提示词） | [stories/24-2026-07-23-开播前的那份剧本-SystemPrompt系统提示词.md](stories/24-2026-07-23-开播前的那份剧本-SystemPrompt系统提示词.md) |
 | 25 | 2026-07-24 | 《旋钮转到「灵感」那一档》 | Temperature（温度参数 / 采样随机性） | [stories/25-2026-07-24-旋钮转到灵感那一档-Temperature温度参数.md](stories/25-2026-07-24-旋钮转到灵感那一档-Temperature温度参数.md) |
+| 26 | 2026-07-25 | 《掐头留尾的候选名册》 | Top-p / 核采样（Nucleus Sampling） | [stories/26-2026-07-25-掐头留尾的候选名册-Top-p核采样.md](stories/26-2026-07-25-掐头留尾的候选名册-Top-p核采样.md) |
