@@ -4,64 +4,45 @@
 
 ## 文件归档（唯一路径）
 
-将**完整故事正文**保存为：
+自 **S6** 起（含其后各季）：
 
 ```text
-stories/{两位序号}-{YYYY-MM-DD}-{故事名}-{概念}.md
+stories/{子系列代号}-{两位序号}-{YYYY-MM-DD}-{故事名}-{概念}.md
 ```
 
-示例：`stories/25-2026-07-24-旋钮转到灵感那一档-Temperature温度参数.md`
+示例：`stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md`
 
-文首表格 / 元信息记录：故事名称、日期（`{序号} · {日期}`）、概念名称、系列序号、本集应用、世界观链接等（与既有篇一致）。
+- **子系列代号**：`S1`…`S10`（见世界观 §3.1）
+- **两位序号**：**该子系列内**从 `01` 起递增（每季独立编号，避免全系列两位序号耗尽）
+- 历史篇 `stories/01-…`～`stories/28-…`（S1–S5）**保持旧名，不批量重命名**
 
-**禁止：**
+**禁止**在仓库根目录创建 `AI概念寓言-*.md`（全文或 stub 都不行）。
 
-- 在仓库**根目录**创建 `AI概念寓言-*.md`（含完整正文副本，或仅含 frontmatter +「完整正文见」的 stub / 索引入口）
-- 为同一篇故事维护第二套平行文件
-- 覆盖或改写历史篇目文件名来「腾位置」
+索引入口：[`README.md`](README.md)、[`stories/世界观.md`](stories/世界观.md) §6。  
+子系列主线：[`stories/世界观.md`](stories/世界观.md) §3.1。
 
-索引入口只有：
+## 日更完整提示词
 
-- 根目录 [`README.md`](README.md) 故事表
-- [`stories/世界观.md`](stories/世界观.md) 各篇归属表
+可整段粘贴到 Cursor Automations → Agent Instructions 的文稿：
 
-## 写作规则
+**[`docs/automation-agent-instructions.md`](docs/automation-agent-instructions.md)**
 
-详见 [`stories/世界观.md`](stories/世界观.md) §7「后续新篇写作规则」。
+（复制该文件中 `BEGIN` → `END` 之间的内容。）
 
-## Git（日更自动化）
+## Git
 
-1. 在约定工作分支上开发（以当时云任务 / 仓库规则为准）
-2. `git add` **仅** `stories/` 下新建或修改的正文，以及必要的 `README.md` / `世界观.md` 索引更新
-3. `git commit`，提交信息格式：`docs(ai-fable): {概念名} - {故事名}`
-4. `git push`
+**推荐策略（单人日更）：建分支 → 开 PR → 默认自动合进 `main`。**
 
-若 push 失败，说明原因与下一步，不要静默跳过。
+| 模式 | 何时用 | 行为 |
+|------|--------|------|
+| **默认 · 自动合并** | 没空审、希望 `main` 常新 | 分支推送 → 开 PR → **合并进 main** → `main` 上能看到最新正文 |
+| **审核后再合** | 当次想自己看过再合 | 用户指令含「仅开 PR / 先不合并 / 等我审核」→ **只开 PR，不合并**；你在 GitHub 上自行 Merge |
 
-## 给 Cursor Automation 维护者
+分支名：`cursor/ai-fable-{YYYY-MM-DD}`（同日重跑可加 `-2` 后缀）。  
+细则见 [`docs/automation-agent-instructions.md`](docs/automation-agent-instructions.md)「Git 工作流」。
 
-自动化「AI产品经理故事」的 prompt 里，**必须把「# 文件归档」整段替换为**下方文案（旧版根目录 `AI概念寓言-{日期}-{概念}.md` 已废止）：
+**为何不推荐继续直推 `main`**：出错稿直接落在默认分支，回滚靠 revert/强推，缺少「今天先放着、我晚上再合」的闸门；对单人仓库风险不算致命，但性价比低于「PR + 默认自动合」。
 
-```markdown
-# 文件归档（每次任务必做）
+## 冲突裁决
 
-将**完整输出**保存为 `stories/` 下的**唯一** Markdown 文件，命名规则：
-
-`stories/{两位序号}-{YYYY-MM-DD}-{故事名}-{概念}.md`
-
-文件头部表格 / 元信息记录：
-- 故事名称
-- 日期（格式：`{序号} · {YYYY-MM-DD}`）
-- 概念名称
-- 系列序号
-- 本集应用、世界观链接（与系列改版后各篇一致）
-
-同步更新根目录 `README.md` 故事索引，以及（如适用）`stories/世界观.md` 各篇归属表。
-
-**禁止**在仓库根目录创建 `AI概念寓言-*.md`（无论是全文副本，还是只有 YAML +「完整正文见」链接的 stub）。
-**不要覆盖历史文件**；每次任务创建新文档。
-
-写作细则以仓库内 `AGENTS.md` 与 `stories/世界观.md` §7 为准；若本 prompt 与仓库约定冲突，**以仓库约定为准**。
-```
-
-自动化面板：https://cursor.com/automations/ff73e645-71fe-11f1-a8a0-cafc5ef88358
+用户当次指令 > 仓库约定（本文件 / 世界观 / `docs/automation-agent-instructions.md`）> 自动化面板里的旧 Instructions > 历史记忆。
