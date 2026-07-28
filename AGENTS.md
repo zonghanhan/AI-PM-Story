@@ -31,7 +31,17 @@ stories/{子系列代号}-{两位序号}-{YYYY-MM-DD}-{故事名}-{概念}.md
 
 ## Git
 
-**直推 `main`**：在 main 上改 → commit → `git push origin main`。
+**推荐策略（单人日更）：建分支 → 开 PR → 默认自动合进 `main`。**
+
+| 模式 | 何时用 | 行为 |
+|------|--------|------|
+| **默认 · 自动合并** | 没空审、希望 `main` 常新 | 分支推送 → 开 PR → **合并进 main** → `main` 上能看到最新正文 |
+| **审核后再合** | 当次想自己看过再合 | 用户指令含「仅开 PR / 先不合并 / 等我审核」→ **只开 PR，不合并**；你在 GitHub 上自行 Merge |
+
+分支名：`cursor/ai-fable-{YYYY-MM-DD}`（同日重跑可加 `-2` 后缀）。  
+细则见 [`docs/automation-agent-instructions.md`](docs/automation-agent-instructions.md)「Git 工作流」。
+
+**为何不推荐继续直推 `main`**：出错稿直接落在默认分支，回滚靠 revert/强推，缺少「今天先放着、我晚上再合」的闸门；对单人仓库风险不算致命，但性价比低于「PR + 默认自动合」。
 
 ## 冲突裁决
 
