@@ -44,3 +44,4 @@
 | 26 | 2026-07-25 | 《掐头留尾的候选名册》 | Top-p / 核采样（Nucleus Sampling） | [stories/26-2026-07-25-掐头留尾的候选名册-Top-p核采样.md](stories/26-2026-07-25-掐头留尾的候选名册-Top-p核采样.md) |
 | 27 | 2026-07-26 | 《车轱辘话的彩排红线》 | Frequency / Presence Penalty（频率与存在惩罚） | [stories/27-2026-07-26-车轱辘话的彩排红线-FrequencyPresencePenalty重复惩罚.md](stories/27-2026-07-26-车轱辘话的彩排红线-FrequencyPresencePenalty重复惩罚.md) |
 | 28 | 2026-07-27 | 《三分钟发言铃响了》 | Max Tokens（最大输出长度） | [stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md](stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md) |
+| S6-01 | 2026-07-28 | 《谁能看见哪一页》 | 检索权限 / ACL（Retrieval Access Control） | [stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md](stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md) |
