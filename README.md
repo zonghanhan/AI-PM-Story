@@ -45,3 +45,4 @@
 | 27 | 2026-07-26 | 《车轱辘话的彩排红线》 | Frequency / Presence Penalty（频率与存在惩罚） | [stories/27-2026-07-26-车轱辘话的彩排红线-FrequencyPresencePenalty重复惩罚.md](stories/27-2026-07-26-车轱辘话的彩排红线-FrequencyPresencePenalty重复惩罚.md) |
 | 28 | 2026-07-27 | 《三分钟发言铃响了》 | Max Tokens（最大输出长度） | [stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md](stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md) |
 | S6-01 | 2026-07-28 | 《谁能看见哪一页》 | 检索权限 / ACL（Retrieval Access Control） | [stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md](stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md) |
+| S6-02 | 2026-07-29 | 《第三章从半句切开》 | 文档切片 / Chunking（Chunking Strategy） | [stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md](stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md) |
