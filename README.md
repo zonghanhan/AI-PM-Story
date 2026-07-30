@@ -46,3 +46,4 @@
 | 28 | 2026-07-27 | 《三分钟发言铃响了》 | Max Tokens（最大输出长度） | [stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md](stories/28-2026-07-27-三分钟发言铃响了-MaxTokens最大输出长度.md) |
 | S6-01 | 2026-07-28 | 《谁能看见哪一页》 | 检索权限 / ACL（Retrieval Access Control） | [stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md](stories/S6-01-2026-07-28-谁能看见哪一页-检索权限ACL.md) |
 | S6-02 | 2026-07-29 | 《第三章从半句切开》 | 文档切片 / Chunking（Chunking Strategy） | [stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md](stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md) |
+| S6-03 | 2026-07-30 | 《旧纸还在架上》 | 知识库版本与更新延迟（Knowledge Base Versioning & Update Latency） | [stories/S6-03-2026-07-30-旧纸还在架上-知识库版本与更新延迟.md](stories/S6-03-2026-07-30-旧纸还在架上-知识库版本与更新延迟.md) |
