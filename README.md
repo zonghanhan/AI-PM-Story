@@ -48,3 +48,4 @@
 | S6-02 | 2026-07-29 | 《第三章从半句切开》 | 文档切片 / Chunking（Chunking Strategy） | [stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md](stories/S6-02-2026-07-29-第三章从半句切开-文档切片Chunking.md) |
 | S6-03 | 2026-07-30 | 《旧纸还在架上》 | 知识库版本与更新延迟（Knowledge Base Versioning & Update Latency） | [stories/S6-03-2026-07-30-旧纸还在架上-知识库版本与更新延迟.md](stories/S6-03-2026-07-30-旧纸还在架上-知识库版本与更新延迟.md) |
 | S6-04 | 2026-07-31 | 《高亮少半页》 | 引用展示（Citation UX） | [stories/S6-04-2026-07-31-高亮少半页-引用展示CitationUX.md](stories/S6-04-2026-07-31-高亮少半页-引用展示CitationUX.md) |
+| S6-05 | 2026-08-01 | 《三份草稿在架上》 | 知识运营后台（Knowledge Ops Console） | [stories/S6-05-2026-08-01-三份草稿在架上-知识运营后台KnowledgeOpsConsole.md](stories/S6-05-2026-08-01-三份草稿在架上-知识运营后台KnowledgeOpsConsole.md) |
