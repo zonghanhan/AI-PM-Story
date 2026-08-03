@@ -50,3 +50,4 @@
 | S6-04 | 2026-07-31 | 《高亮少半页》 | 引用展示（Citation UX） | [stories/S6-04-2026-07-31-高亮少半页-引用展示CitationUX.md](stories/S6-04-2026-07-31-高亮少半页-引用展示CitationUX.md) |
 | S6-05 | 2026-08-01 | 《三份草稿在架上》 | 知识运营后台（Knowledge Ops Console） | [stories/S6-05-2026-08-01-三份草稿在架上-知识运营后台KnowledgeOpsConsole.md](stories/S6-05-2026-08-01-三份草稿在架上-知识运营后台KnowledgeOpsConsole.md) |
 | S6-06 | 2026-08-02 | 《隔壁货架闪了一下》 | 多租户隔离再加固（Multi-tenant Isolation Hardening） | [stories/S6-06-2026-08-02-隔壁货架闪了一下-多租户隔离再加固.md](stories/S6-06-2026-08-02-隔壁货架闪了一下-多租户隔离再加固.md) |
+| S6-07 | 2026-08-03 | 《比买家先看见》 | 检索与引用可观测性（Retrieval & Citation Observability） | [stories/S6-07-2026-08-03-比买家先看见-检索引用可观测性.md](stories/S6-07-2026-08-03-比买家先看见-检索引用可观测性.md) |
