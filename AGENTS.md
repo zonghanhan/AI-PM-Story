@@ -46,3 +46,15 @@ stories/{子系列代号}-{两位序号}-{YYYY-MM-DD}-{故事名}-{概念}.md
 ## 冲突裁决
 
 用户当次指令 > 仓库约定（本文件 / 世界观 / `docs/automation-agent-instructions.md`）> 自动化面板里的旧 Instructions > 历史记忆。
+
+## Cursor Cloud specific instructions
+
+本仓库是**纯 Markdown 内容库**：正文全部在 `stories/`，**没有**应用代码、包管理文件、构建、lint 或自动化测试。产品即「在 GitHub 上渲染阅读的每日故事」。
+
+- **无依赖**：启动 update 脚本是 no-op；不要为它添加 `pip install` / `npm install` 之类步骤。日常「开发」= 编辑 Markdown + 更新索引 + 开 PR。
+- **主要「构建/测试」= 内容完整性校验**，而非编译。改动或新增故事后，务必确认两件事一致：
+  - `README.md` 故事索引表新增/更新了对应行与相对路径链接；
+  - `stories/世界观.md` §6 各篇归属表（及必要时 §3.1 子系列状态）同步更新。
+  - 快速校验相对链接是否都指向真实文件，可跑一次性脚本（不必入库）：遍历 `README.md`、`stories/世界观.md`、`AGENTS.md` 中的 `](相对路径)`，逐个 `os.path.exists` 检查即可。
+- **本地预览（可选、非仓库依赖）**：要像读者一样看渲染效果，可临时 `pip install markdown pygments`，用小脚本把 `*.md` 转 HTML 并 `python3 -m http.server` 提供服务（GitHub 上则直接看渲染后的 Markdown）。这只是临时开发工具，**不要**写进 update 脚本或提交入库。
+- 写作流程、文件命名、Git/PR 约定等**不要在此重复**，以本文件上文各节与 [`docs/automation-agent-instructions.md`](docs/automation-agent-instructions.md) 为准。
