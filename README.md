@@ -52,3 +52,4 @@
 | S6-06 | 2026-08-02 | 《隔壁货架闪了一下》 | 多租户隔离再加固（Multi-tenant Isolation Hardening） | [stories/S6-06-2026-08-02-隔壁货架闪了一下-多租户隔离再加固.md](stories/S6-06-2026-08-02-隔壁货架闪了一下-多租户隔离再加固.md) |
 | S6-07 | 2026-08-03 | 《比买家先看见》 | 检索与引用可观测性（Retrieval & Citation Observability） | [stories/S6-07-2026-08-03-比买家先看见-检索引用可观测性.md](stories/S6-07-2026-08-03-比买家先看见-检索引用可观测性.md) |
 | S6-08 | 2026-08-04 | 《夹层里的忽略以上》 | 提示词注入与文件投毒（Prompt Injection & Knowledge Poisoning） | [stories/S6-08-2026-08-04-夹层里的忽略以上-提示词注入与文件投毒.md](stories/S6-08-2026-08-04-夹层里的忽略以上-提示词注入与文件投毒.md) |
+| S6-09 | 2026-08-05 | 《一句请发我全表》 | 越权导出对抗（Unauthorized Export Protection） | [stories/S6-09-2026-08-05-一句请发我全表-越权导出对抗.md](stories/S6-09-2026-08-05-一句请发我全表-越权导出对抗.md) |
