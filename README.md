@@ -54,3 +54,4 @@
 | S6-08 | 2026-08-04 | 《夹层里的忽略以上》 | 提示词注入与文件投毒（Prompt Injection & Knowledge Poisoning） | [stories/S6-08-2026-08-04-夹层里的忽略以上-提示词注入与文件投毒.md](stories/S6-08-2026-08-04-夹层里的忽略以上-提示词注入与文件投毒.md) |
 | S6-09 | 2026-08-05 | 《一句请发我全表》 | 越权导出对抗（Unauthorized Export Protection） | [stories/S6-09-2026-08-05-一句请发我全表-越权导出对抗.md](stories/S6-09-2026-08-05-一句请发我全表-越权导出对抗.md) |
 | S7-01 | 2026-08-06 | 《办到第三步行不通》 | 规划与多步状态（Agent Planning & Multi-step State） | [stories/S7-01-2026-08-06-办到第三步行不通-规划与多步状态.md](stories/S7-01-2026-08-06-办到第三步行不通-规划与多步状态.md) |
+| S7-02 | 2026-08-07 | 《红点没点，货不能出》 | Human-in-the-loop 审批闸（HITL Approval Gate） | [stories/S7-02-2026-08-07-红点没点货不能出-Human-in-the-loop审批闸.md](stories/S7-02-2026-08-07-红点没点货不能出-Human-in-the-loop审批闸.md) |
