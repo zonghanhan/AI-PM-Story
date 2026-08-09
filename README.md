@@ -56,3 +56,4 @@
 | S7-01 | 2026-08-06 | 《办到第三步行不通》 | 规划与多步状态（Agent Planning & Multi-step State） | [stories/S7-01-2026-08-06-办到第三步行不通-规划与多步状态.md](stories/S7-01-2026-08-06-办到第三步行不通-规划与多步状态.md) |
 | S7-02 | 2026-08-07 | 《红点没点，货不能出》 | Human-in-the-loop 审批闸（HITL Approval Gate） | [stories/S7-02-2026-08-07-红点没点货不能出-Human-in-the-loop审批闸.md](stories/S7-02-2026-08-07-红点没点货不能出-Human-in-the-loop审批闸.md) |
 | S7-03 | 2026-08-08 | 《批准之后，拣货又断了》 | 工具失败重试与补偿（Tool Failure Retry & Compensation） | [stories/S7-03-2026-08-08-批准之后拣货又断了-工具失败重试与补偿.md](stories/S7-03-2026-08-08-批准之后拣货又断了-工具失败重试与补偿.md) |
+| S7-04 | 2026-08-09 | 《黄灯五分钟后的交接班》 | 人工接管话术与权限（Human Takeover Handoff Script & Authorization） | [stories/S7-04-2026-08-09-黄灯五分钟后的交接班-人工接管话术与权限.md](stories/S7-04-2026-08-09-黄灯五分钟后的交接班-人工接管话术与权限.md) |
