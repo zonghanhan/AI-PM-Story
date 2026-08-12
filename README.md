@@ -61,3 +61,4 @@
 | S7-04 | 2026-08-09 | 《黄灯五分钟后的交接班》 | 人工接管话术与权限（Human Takeover Handoff Script & Authorization） | [stories/S7-04-2026-08-09-黄灯五分钟后的交接班-人工接管话术与权限.md](stories/S7-04-2026-08-09-黄灯五分钟后的交接班-人工接管话术与权限.md) |
 | S8-01 | 2026-08-10 | 《排队第一句听错了》 | 进线意图分类（Intent Classification for Ticket Routing） | [stories/S8-01-2026-08-10-排队第一句听错了-进线意图分类.md](stories/S8-01-2026-08-10-排队第一句听错了-进线意图分类.md) |
 | S8-02 | 2026-08-11 | 《L2 在值班，单子却进了 L1》 | 技能组 / 坐席路由（Skill-based Routing） | [stories/S8-02-2026-08-11-L2在值班单子却进了L1-技能组坐席路由.md](stories/S8-02-2026-08-11-L2在值班单子却进了L1-技能组坐席路由.md) |
+| S8-03 | 2026-08-12 | 《改派栏不能空着》 | 分派解释与改派审计（Dispatch Explainability & Reassignment Audit） | [stories/S8-03-2026-08-12-改派栏不能空着-分派解释与改派审计.md](stories/S8-03-2026-08-12-改派栏不能空着-分派解释与改派审计.md) |
