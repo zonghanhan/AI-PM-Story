@@ -62,3 +62,4 @@
 | S8-01 | 2026-08-10 | 《排队第一句听错了》 | 进线意图分类（Intent Classification for Ticket Routing） | [stories/S8-01-2026-08-10-排队第一句听错了-进线意图分类.md](stories/S8-01-2026-08-10-排队第一句听错了-进线意图分类.md) |
 | S8-02 | 2026-08-11 | 《L2 在值班，单子却进了 L1》 | 技能组 / 坐席路由（Skill-based Routing） | [stories/S8-02-2026-08-11-L2在值班单子却进了L1-技能组坐席路由.md](stories/S8-02-2026-08-11-L2在值班单子却进了L1-技能组坐席路由.md) |
 | S8-03 | 2026-08-12 | 《改派栏不能空着》 | 分派解释与改派审计（Dispatch Explainability & Reassignment Audit） | [stories/S8-03-2026-08-12-改派栏不能空着-分派解释与改派审计.md](stories/S8-03-2026-08-12-改派栏不能空着-分派解释与改派审计.md) |
+| S8-04 | 2026-08-13 | 《老何升了楼，队列还在 L2》 | 模型路由与人工队列边界（Model Routing vs Human Queue Boundary）及分派 SLA | [stories/S8-04-2026-08-13-老何升了楼队列还在L2-模型路由与人工队列边界.md](stories/S8-04-2026-08-13-老何升了楼队列还在L2-模型路由与人工队列边界.md) |
